@@ -1,7 +1,7 @@
 ## Olá, me chamo Alex Alves 👋
 
 - 📘 Estudante de Análise e Desenvolvimento de Sistemas
-- 💻 Estudando Node.js
+
 
 
 <div style="display: inline_block"><br>
