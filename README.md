@@ -35,7 +35,8 @@
 
 ## 📊 My Stats  
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alexalves011&layout=compact&theme=radical&cache_seconds=1)](https://github.com/anuraghazra/github-readme-stats)
+[![Alex's GitHub stats](https://github-readme-stats.vercel.app/api?username=alexalves011&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 
