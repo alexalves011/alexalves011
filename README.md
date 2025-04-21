@@ -35,7 +35,12 @@
 
 ## 📊 My Stats  
 
-[![Alex's GitHub stats](https://github-readme-stats.vercel.app/api?username=alexalves011&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=alexalves011&theme=radical)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alexalves011&layout=compact&theme=radical&langs_count=8&cache_seconds=1800)](https://github.com/anuraghazra/github-readme-stats)
+
+
 
 
 
