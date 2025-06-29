@@ -2,14 +2,14 @@
 
 ### Alex Alves da Silva
 
-Desenvolvedora Java | Spring Framework | Front-end | Git  
-*Focada em backend, apaixonada por desafios e inovação ✨*
+Desenvolvedor javascript | React Framework | Front-end | Git  
+*Focada em front-end, apaixonado por desafios e inovação ✨*
 
 ---
 
-### 🚀 Futura Dev. Full Stack
+### 🚀 Futuro Dev. 
 
-Formada em Análise e Desenvolvimento de Sistemas pela FIAP, gosto de projetos desafiadores que me impulsionam a aprender novas tecnologias e também a aprimorar o que já sei. Mesmo formada, me considero uma estudante dedicada a continuar adquirindo novos conhecimentos e aplicar minhas habilidades em Java e Front-end. Já tive contato com Banco de Dados, Python e QA e também estou explorando o mundo de Cloud. Sempre em busca de evolução!
+Formado Técnico em analise desenvolvimento de sistema pela ETEC Uirapuru, sou apaixonado por desenvolvimento front-end e venho aprimorando minhas habilidades em JavaScript e React. Atualmente estou estudando Node.js para expandir meus conhecimentos no back-end e me tornar um desenvolvedor mais completo. Estou sempre buscando aprender novas tecnologias e evoluir tanto no aspecto técnico quanto profissional.
 
 ---
 
@@ -34,6 +34,6 @@ Formada em Análise e Desenvolvimento de Sistemas pela FIAP, gosto de projetos d
 
 ### 🌐 Conecte-se comigo!
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/seuusuario)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/seulinkedin)
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seuemail@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/alexalves011)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alex-alves-7a4a4327a/)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alexalves.work@gmail.com)
