@@ -3,7 +3,7 @@
 ### Alex Alves da Silva
 
 Desenvolvedor javascript | React Framework | Front-end | Git  
-*Focada em front-end, apaixonado por desafios e inovação ✨*
+*Focado em front-end, apaixonado por desafios e inovação ✨*
 
 ---
 
