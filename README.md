@@ -9,7 +9,8 @@ Desenvolvedor javascript | React Framework | Front-end | Git
 
 ### 🚀 Futuro Dev. 
 
-Formado Técnico em analise desenvolvimento de sistema pela ETEC Uirapuru, sou apaixonado por desenvolvimento front-end e venho aprimorando minhas habilidades em JavaScript e React. Atualmente estou estudando Node.js para expandir meus conhecimentos no back-end e me tornar um desenvolvedor mais completo. Estou sempre buscando aprender novas tecnologias e evoluir tanto no aspecto técnico quanto profissional.
+Formado Técnico em Análise e Desenvolvimento de Sistemas pela ETEC Uirapuru, sou apaixonado por desenvolvimento front-end e venho aprimorando minhas habilidades em JavaScript e React. Atualmente, estou cursando a graduação em Análise e Desenvolvimento de Sistemas pela Cruzeiro do Sul e estudando Node.js para expandir meus conhecimentos no back-end e me tornar um desenvolvedor mais completo. Estou sempre buscando aprender novas tecnologias e evoluir tanto no aspecto técnico quanto profissional.
+
 
 ---
 
@@ -20,6 +21,9 @@ Formado Técnico em analise desenvolvimento de sistema pela ETEC Uirapuru, sou a
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+
+
 
 ---
 
