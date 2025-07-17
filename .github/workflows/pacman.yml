@@ -12,12 +12,15 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v3
-      - uses: Platane/snk@v3
+      
+      - name: Generate graph
+        uses: Platane/snk@v3
         with:
           github_user_name: alexalves011
           outputs: |
             ./output/pacman-contribution-graph.svg
             ./output/pacman-contribution-graph-dark.svg
+
       - name: Commit files
         run: |
           git config --global user.name 'github-actions[bot]'
