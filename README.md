@@ -1,4 +1,4 @@
-# 💜 Olá, eu sou o Alex!
+# Olá, eu sou o Alex!
 <p align="left">
   Desenvolvedor em formação, comprometido a criar soluções modernas, funcionais e com propósito. <br>
  Tenho focado meus estudos em <strong>Java</strong> e <strong>JavaScript</strong>, com o objetivo de transformar cada aprendizado em projetos reais ao longo da minha jornada em Análise e Desenvolvimento de Sistemas.
