@@ -2,21 +2,20 @@
 <p align="left">
  Desenvolvedor Front-end
 
-Sou formado em Técnico em Desenvolvimento de Sistemas e atualmente estagio como Desenvolvedor Front-end na Travelex Bank. No momento, estou focado em aprender React e aprimorar meus conhecimentos em TypeScript, buscando evoluir cada vez mais como desenvolvedor front-end.
+Desenvolvedor Front-end,  Atualmente, foco meus projetos em React, TypeScript e next, explorando desde a lógica de componentes até a arquitetura de sistemas.
 </p>
 
 ## Sobre mim
 
 - 🖥️ Técnico em Desenvolvimento de Sistemas pela ETEC Uirapuru  
 - 🎓 Cursando Análise e Desenvolvimento de Sistemas pela Cruzeiro do Sul  
-- 👨🏻‍💻 Estagiário em Desenvolvimento Front-end na Travelex Bank.
 
 
 ---
 
 ##  💻 Tecnologias e linguagens 
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,bootstrap)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,bootstrap,ts,next)](https://skillicons.dev)
 
 ### 🛠️ Ferramentas de desenvolvimento
 [![My Skills](https://skillicons.dev/icons?i=git,github,vscode,figma)](https://skillicons.dev)
