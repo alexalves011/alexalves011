@@ -1,43 +1,34 @@
-# Alex Alves 👨🏻‍💻
+# Alex Alves
+
+`Front-end Development Intern`
+
+Sou desenvolvedor de software apaixonado por tecnologia e aprendizado contínuo. Tenho foco no desenvolvimento Front-end utilizando JavaScript, TypeScript, React e Next.js, buscando criar aplicações modernas, responsivas e de fácil manutenção. Valorizo código limpo, boas práticas de desenvolvimento e a colaboração em equipe para construir soluções de qualidade.
+
+---
+
+### 🧰 Idiomas e Ferramentas
+
+<!-- Substitua os links abaixo pelos badges/ícones do Devicon ou Shields.io se preferir um visual padronizado -->
 <p align="left">
- Desenvolvedor Front-end
-
-Desenvolvedor Front-end,  Atualmente, foco meus projetos em React, TypeScript e next, explorando desde a lógica de componentes até a arquitetura de sistemas.
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45"/>
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="45"/>
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="45"/>
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="45"/>
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="45"/>
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45"/>
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45"/>
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="45"/>
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="45"/>
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45"/>
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="45"/>
 </p>
-
-## Sobre mim
-
-- 🖥️ Técnico em Desenvolvimento de Sistemas pela ETEC Uirapuru  
-- 🎓 Cursando Análise e Desenvolvimento de Sistemas pela Cruzeiro do Sul  
-
-
----
-
-##  💻 Tecnologias e linguagens 
-
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,bootstrap,ts,next)](https://skillicons.dev)
-
-### 🛠️ Ferramentas de desenvolvimento
-[![My Skills](https://skillicons.dev/icons?i=git,github,vscode,figma)](https://skillicons.dev)
-
----
-
-## ⭐ GitHub Stats
-<a href="https://github.com/alexalves011">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexalves011&layout=compact&langs_count=6&theme=radical"/>
-</a>
-
-<br> <br>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/alexalves011/alexalves011/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/alexalves011/alexalves011/output/pacman-contribution-graph.svg">
-  <img alt="Pacman contribution graph" src="https://raw.githubusercontent.com/alexalves011/alexalves011/output/pacman-contribution-graph.svg">
-</picture>
-
-###
-
-
-
-
-
