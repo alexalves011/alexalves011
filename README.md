@@ -6,7 +6,7 @@ Sou desenvolvedor de software apaixonado por tecnologia e aprendizado contínuo.
 
 ---
 
-### 🧰 Idiomas e Ferramentas
+### 🧰 Tecnologias e linguagens 
 
 <!-- Substitua os links abaixo pelos badges/ícones do Devicon ou Shields.io se preferir um visual padronizado -->
 <p align="left">
