@@ -31,4 +31,6 @@ Sou desenvolvedor de software apaixonado por tecnologia e aprendizado contínuo.
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45"/>
   &nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="45"/>
+  &nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/n8n/EA4B71" width="45"/>
 </p>
