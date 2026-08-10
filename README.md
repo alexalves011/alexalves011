@@ -2,7 +2,7 @@
 
 `Front-end Development Intern`
 
-Sou desenvolvedor de software apaixonado por tecnologia e aprendizado contínuo. Tenho foco no desenvolvimento Front-end utilizando JavaScript, TypeScript, React e Next.js, buscando criar aplicações modernas, responsivas e de fácil manutenção. Valorizo código limpo, boas práticas de desenvolvimento e a colaboração em equipe para construir soluções de qualidade.
+Desenvolvedor Front-end focado na construção de aplicações escaláveis e de fácil manutenção utilizando o ecossistema moderno de JavaScript (React, TypeScript, Next.js). Valorizo código limpo e a aplicação de boas práticas de engenharia de software na criação de interfaces. Paralelamente ao desenvolvimento web, exploro a criação de automações end-to-end (E2E) para otimização de fluxos e tarefas pessoais.
 
 ---
 
